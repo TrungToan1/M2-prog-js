@@ -18,7 +18,7 @@ class App
         console.log(distributeur);
         console.log(darkmode);
     }
-}
+}  
 
 let app = new App();
 app.runApplication();
